@@ -1,3 +1,17 @@
-body {
-  background-color: rgb(255, 66, 3);
+.light-pink {
+  background-color: rgb(249, 169, 188);
+  font-family: Verdana, "Dajavu Sans", sans-serif;
+}
+
+#blue-id {
+  color: rgb(0, 0, 255);
+  font-size: 36px;
+}
+.cooler {
+  font-size: 24px;
+}
+#green-id {
+  background-color: rgb(148, 249, 158);
+  font-weight: bold;
+  font-size: 24px;
 }
