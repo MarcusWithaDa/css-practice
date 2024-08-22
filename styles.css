@@ -15,3 +15,18 @@
   font-weight: bold;
   font-size: 24px;
 }
+
+.element1,
+.element2 {
+  font-size: 18px;
+  font-family: helvetica, "Times New Roman", sans-serif;
+}
+
+.element1 {
+  background-color: rgb(0, 0, 0);
+  color: #fff;
+}
+
+.element2 {
+  background-color: rgb(255, 251, 0);
+}
